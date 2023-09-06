@@ -1,4 +1,4 @@
-# Program to find whether userdefined year a leap year/not by if-elif-else statements.
+#1.2 Program to find whether userdefined year a leap year/not by if-elif-else statements.
 
 def isLeap(yr):
   if (yr % 4 == 0 and yr % 100 != 0):
